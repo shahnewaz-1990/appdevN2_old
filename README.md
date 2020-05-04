@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #appdev for I-IT-1N1&2
 -------------------------------------------------------------------------
 -------------------------Application Development 2020--------------------
@@ -53,3 +54,6 @@ List of contents
 6. Credits and acknowledgement
 	 
 
+=======
+#appdevN1
+>>>>>>> 4a258856227eda2fc8cc13cb921b50c6e6be4626
